@@ -19,15 +19,18 @@ https://b3nzuk3.github.io/calculator/
 ## Known Bugs
 The site might have an update in the near future but as for now no challenges.
 ## Technologies Used
-1.HTML
-2.CSS
-3.typeScript
+python3.10
 
-The site was accomplished by incoperating the three languanges.
-
-HTML - for the text content or anything written and visible to the user.
-CSS - for all the styling and beautiful colors displayed to the user.
-typeSCript - majority of the technology used is typeScript which is very usefull and easy to work with when making angular applicatons.
+this site was accomplished by purely incoperating python programming language
 
 ## Support and contact details
-I've linked any and all means of communications at my second website which is about me.
+I've linked any and all means of communications at [my Omega website](https://b3nzuk3.github.io/omega-phase1/) which is about me.
+
+### License
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
