@@ -1,7 +1,8 @@
 # Password Locker
 
-This project was generated with [Python3.10](https://github.com/angular/angular-cli) version 13.3.1.
-#### This site is a web app, Mar-15-2022
+This project was generated with [Python3.10](https://www.python.org/downloads/release/python-3100/) version 13.3.1.
+#### This site is a Password Manager, Apr-26-2022
+##Author
 #### By b3nzuk3
 ## Description
 This app allows the user to view his profile and repositories when prompted to search
