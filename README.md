@@ -1,6 +1,6 @@
 # Password Locker
 
-This project was generated with [Python3.10](https://www.python.org/downloads/release/python-3100/) version 13.3.1.
+This project was generated with [Python3.10](https://www.python.org/downloads/release/python-3100/) 
 #### This site is a Password Manager, Apr-26-2022
 ## Author
 #### By b3nzuk3
