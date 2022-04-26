@@ -26,7 +26,7 @@ this site was accomplished by purely incoperating python programming language
 ## Support and contact details
 I've linked any and all means of communications at [my Omega website](https://b3nzuk3.github.io/omega-phase1/) which is about me.
 
-### License
+## License
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
