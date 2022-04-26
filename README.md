@@ -7,6 +7,14 @@ This project was generated with [Python3.10](https://www.python.org/downloads/re
 ## Description
 This a password manager made purely with python and passion. Users can save account details i.e usernames and passwords rather than forgetting them, thus this is here to make life easier for everyone who is prone to forget their details
 ## Setup/Installation Requirements
+*To install applicaton one of the fundamental requirements
+       $ python3.10
+
+## Running Application
+* To run the application, open the cloned file in the terminal and run the following commands:
+
+       $ chmod +x run.py
+       $ ./run.py
 
 ## Other Projects
 1. Project alpha:
