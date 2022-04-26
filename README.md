@@ -2,14 +2,12 @@
 
 This project was generated with [Python3.10](https://www.python.org/downloads/release/python-3100/) version 13.3.1.
 #### This site is a Password Manager, Apr-26-2022
-##Author
+## Author
 #### By b3nzuk3
 ## Description
-This app allows the user to view his profile and repositories when prompted to search
-
-![LANDING PAGE](git_Screen.png)
+This a password manager made purely with python and passion. Users can save account details i.e usernames and passwords rather than forgetting them, thus this is here to make life easier for everyone who is prone to forget their details
 ## Setup/Installation Requirements
-Once you access the Webpage, you click on the github link on the right of the navbar and you will be able to access the App.
+
 ## Other Projects
 1. Project alpha:
 https://github.com/b3nzuk3/project-alpha
