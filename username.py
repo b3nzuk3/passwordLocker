@@ -45,7 +45,7 @@ class User_name:
 
     def display_contact(self):
         """
-        method allows the displaying of user credentials saves in a file 
+        method allows the displaying of user credentials saves in a file
         """
 
         with open("accounts.txt", "r") as f:
@@ -53,6 +53,9 @@ class User_name:
             return lines
 
     def search_account(self,site):
+        """
+        allows user to such for specefic account and saves time 
+        """
         mylines = []
         with open("accounts.txt", "r") as f:
             lines = f.readlines()
