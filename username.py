@@ -32,7 +32,6 @@ class User_name:
         """
         method to facilitate deletion of credentials in the future
         """
-
         with open("accounts.txt", "r") as f:
             lines = f.readlines()
         with open("accounts.txt", "w") as f:
@@ -54,7 +53,7 @@ class User_name:
 
     def search_account(self,site):
         """
-        allows user to such for specefic account and saves time 
+        allows user to such for specefic account and saves time
         """
         mylines = []
         with open("accounts.txt", "r") as f:
