@@ -6,6 +6,17 @@ This project was generated with [Python3.10](https://www.python.org/downloads/re
 #### By b3nzuk3
 ## Description
 This a password manager made purely with python and passion. Users can save account details i.e usernames and passwords rather than forgetting them, thus this is here to make life easier for everyone who is prone to forget their details
+
+##Behavior Driven Development
+      1. Allows the user to create a new account by inputing the username.
+      2. Once user enters their username a password is generated.
+      3. They can choose to input the random password or input their own.
+      4. Once completed they can save there account credentials.
+      5. The user can later come and check on their credentials once saved or delete them.
+      6. They can do so by searching for it or displaying all of them at once.
+      7. Once done with either processes they can choose to exit the application.
+
+
 ## Setup/Installation Requirements
 * To install applicaton one of the fundamental requirements:
 
